@@ -6,6 +6,9 @@ Sebuah alat bantu baris perintah (CLI) yang kuat dan interaktif untuk mengelola 
 > - Telegram : https://t.me/Isrealll1
 > - Web      : https://isrealllairdrop.tech/ 
 
+![image](https://github.com/user-attachments/assets/bf89cb13-105f-4bab-a5f5-a232bf2ec173)
+
+
 ## ✨ Fitur Utama
 
 -   **Distribusi Token**: Kirim token MVRK (MAV), MVN, dan USDT dari dompet utama ke banyak dompet tuyul sekaligus dengan jumlah yang dapat ditentukan.
