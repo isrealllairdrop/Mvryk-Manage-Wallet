@@ -29,7 +29,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 
 1.  **Clone atau Unduh Proyek**
     ```sh
-    git clone [[URL_REPOSITORY_ANDA]](https://github.com/isrealllairdrop/Mvryk-Manage-Wallet.git)
+    git clone https://github.com/isrealllairdrop/Mvryk-Manage-Wallet.git
     cd Mvryk-Manage-Wallet
     ```
 
